@@ -1,0 +1,5 @@
+Objective:
+Win as many microgames as possible to beat the other players.
+
+Other Notes:
+The pace of the game speeds up over time. In the end, a boss microgame will appear that counts for 5 normal microgames.
